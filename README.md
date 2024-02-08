@@ -12,7 +12,6 @@ Welcome to my repository of detailed performance reports for fiscal years 2019 t
 - **Market Performance vs. Target**: Evaluates performance against targets across key global markets, indicating strategic positioning.
 - **P&L Report by Fiscal Year**: Financial health is dissected to reveal profitability, operational efficiency, and growth trajectories.
 - **P&L Report by Months**: Detailed monthly financial performance, unraveling seasonal impacts and cost management effectiveness.
-- **Sales Report (Excel)**: Granular sales data broken down by product, region, and time period for in-depth sales analytics.
 
 ## Objective
 
