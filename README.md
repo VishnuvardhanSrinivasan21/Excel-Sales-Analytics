@@ -9,9 +9,9 @@ Welcome to my repository of detailed performance reports for fiscal years 2019 t
 ## What's Inside
 
 - **Customer Performance Report**: A deep dive into sales performance across multiple customer segments, showcasing growth and engagement trends. [customer performance report](https://github.com/VishnuvardhanSrinivasan21/Excel-Sales-Analytics/blob/main/Customer_Performance_Report.pdf)
-- **Market Performance vs. Target**: Evaluates performance against targets across key global markets, indicating strategic positioning. [Market Performance vs. Target] (https://github.com/VishnuvardhanSrinivasan21/Excel-Sales-Analytics/blob/main/Market_Performance_vs_Target.pdf)
-- **P&L Report by Fiscal Year**: Financial health is dissected to reveal profitability, operational efficiency, and growth trajectories. [P&L Report by Fiscal Year] (https://github.com/VishnuvardhanSrinivasan21/Excel-Sales-Analytics/blob/main/P%26L_Report_By_Fiscal_year.pdf)
-- **P&L Report by Months**: Detailed monthly financial performance, unraveling seasonal impacts and cost management effectiveness. [P&L Report by Months] (https://github.com/VishnuvardhanSrinivasan21/Excel-Sales-Analytics/blob/main/P%26L_Report_By_Months.pdf) 
+- **Market Performance vs. Target**: Evaluates performance against targets across key global markets, indicating strategic positioning. [Market Performance vs. Target](https://github.com/VishnuvardhanSrinivasan21/Excel-Sales-Analytics/blob/main/Market_Performance_vs_Target.pdf)
+- **P&L Report by Fiscal Year**: Financial health is dissected to reveal profitability, operational efficiency, and growth trajectories. [P&L Report by Fiscal Year](https://github.com/VishnuvardhanSrinivasan21/Excel-Sales-Analytics/blob/main/P%26L_Report_By_Fiscal_year.pdf)
+- **P&L Report by Months**: Detailed monthly financial performance, unraveling seasonal impacts and cost management effectiveness. [P&L Report by Months](https://github.com/VishnuvardhanSrinivasan21/Excel-Sales-Analytics/blob/main/P%26L_Report_By_Months.pdf) 
 
 ## Objective
 
