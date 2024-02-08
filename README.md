@@ -9,9 +9,9 @@ Welcome to my repository of detailed performance reports for fiscal years 2019 t
 ## What's Inside
 
 - **Customer Performance Report**: A deep dive into sales performance across multiple customer segments, showcasing growth and engagement trends. [customer performance report](https://github.com/VishnuvardhanSrinivasan21/Excel-Sales-Analytics/blob/main/Customer_Performance_Report.pdf)
-- **Market Performance vs. Target**: Evaluates performance against targets across key global markets, indicating strategic positioning.
-- **P&L Report by Fiscal Year**: Financial health is dissected to reveal profitability, operational efficiency, and growth trajectories.
-- **P&L Report by Months**: Detailed monthly financial performance, unraveling seasonal impacts and cost management effectiveness.
+- **Market Performance vs. Target**: Evaluates performance against targets across key global markets, indicating strategic positioning. [Market Performance vs. Target]
+- **P&L Report by Fiscal Year**: Financial health is dissected to reveal profitability, operational efficiency, and growth trajectories. [P&L Report by Fiscal Year]
+- **P&L Report by Months**: Detailed monthly financial performance, unraveling seasonal impacts and cost management effectiveness. [P&L Report by Months]
 
 ## Objective
 
